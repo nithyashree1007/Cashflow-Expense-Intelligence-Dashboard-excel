@@ -62,3 +62,7 @@ This dashboard showcases my ability to:
 - Build structured financial reports
 - Use visualization techniques for clarity
 - Think in terms of business insights, not just numbers
+  
+## 🎥 Dashboard Walkthrough Video
+Watch the complete walkthrough below:
+👉 [Click here to view the Dashboard Demo](https://drive.google.com/file/d/1N-pmD-dtxw361OnficGHD2n-nvmbXhcB/view?usp=sharing)
